@@ -1,0 +1,59 @@
+"C:\Program Files (x86)\Java\jdk1.8.0_271\bin\java.exe" -Dfile.encoding=windows-1252 -jar "C:\Users\Varshitha uppula\OneDrive - Northeastern University\PDP\project1\out\artifacts\project1_jar\project1.jar"
+Sanctuary id
+1
+total Isolation cages: expected is 1
+1
+total Enclosures expected is 1
+1
+total Isolation cages: expected is 10
+10
+total Isolation cages: expected is 20
+20
+Space in isolation after adding 5 monkeys should be 5(10-5)
+5
+Display isolation cage numbers
+[1, 2, 3, 4, 5]
+move a monkey into enclosure
+Isolation cage numbers after a monkey at location 3 is moved
+[1, 2, 4, 5]
+Check if monkeys Medical Attention status recieved is set as true
+true
+Get Enclosures created
+[1]
+Move another monkey
+Isolation cage numbers after a monkey at location 1 is moved
+[2, 4, 5]
+Check if monkeys Medical Attention status recieved is set as true
+true
+Get Enclosures created
+[1]
+Add a new monkey
+Get Enclosures list
+[1]
+Get Isolation list
+[2, 4, 5, 1]
+Test alphabetical order of species and their housing
+[{drill=[1E, 2I, 1I], mangabey=[4I], spider=[5I]}]
+find list of locations of species housed - drill
+[1E, 2I, 1I]
+Get the sign of monkeys in an enclosure
+[[Monkey3, Male, seeds], [Monkey1, Female, fruits]]
+get all monkeys housed in alphabetical order along with their location
+[{Monkey1=1E, Monkey12=1I, Monkey2=2I, Monkey3=1E, Monkey4=4I, Monkey5=5I}]
+Produce a shopping list
+{fruits=200, insects=100, seeds=350, treeSap=250}
+Move a monkey in isolatoin to enclosure and back to isolation
+Isolation cage numbers before a monkey at location 1 is moved to enclosure
+[2, 4, 5, 1]
+Isolation cage numbers after a monkey at location 1 is moved to enclosure
+[4, 5, 1]
+Isolation cage numbers after a monkey at location 1 is moved from enclpsure to isolation
+[4, 5, 1, 2]
+Check if monkeys Medical Attention status recieved is set as true
+true
+Get Enclosures created
+[1]
+Get Capactity of enclosure
+94
+
+Process finished with exit code 0

@@ -1,0 +1,27 @@
+1. sANCTUARY interface
+2.Sanctuary class
+n- number of isolation cages
+m- numbre enclosures
+getSpecies return type is what? hashmap with key - species name and value as list of locations
+hashcode equals is it there in every class? - not needed
+is getspecies in monkey class or sanct class and why?
+getSign return type? object of monkey
+getmonkey which class and what return type  - sanctuary
+
+
+design
+video
+assignment
+grading ta
+fse assignment?
+ra work
+leet code and prepare resume
+
+
+
+********************************************
+1.Medicalstat is initially false( when monkey first arrives)	
+SetHousing - determines if a monkey should be put in isolation based on the attribute called medicalAttentionStatus of monkey.
+If there is space in isolation set monkeyid to available isolationid.
+
+2.
